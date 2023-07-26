@@ -1,0 +1,33 @@
+﻿  源.cpp
+D:\程序\VS的C语言程序\图形化界面\源.cpp(55,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(64,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(74,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(75,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(76,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(77,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(78,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(51,8): warning C4101: “tail”: 未引用的局部变量
+D:\程序\VS的C语言程序\图形化界面\源.cpp(97,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(276,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(277,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(278,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(279,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(280,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(319,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(320,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(321,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(322,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(323,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(298,7): warning C4101: “time”: 未引用的局部变量
+D:\程序\VS的C语言程序\图形化界面\源.cpp(297,7): warning C4101: “data”: 未引用的局部变量
+D:\程序\VS的C语言程序\图形化界面\源.cpp(376,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(377,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(379,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(380,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(382,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(383,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\程序\VS的C语言程序\图形化界面\源.cpp(405,6): warning C4101: “temp”: 未引用的局部变量
+D:\程序\VS的C语言程序\图形化界面\源.cpp(432,9): warning C4101: “tem2”: 未引用的局部变量
+D:\程序\VS的C语言程序\图形化界面\源.cpp(525,7): warning C4101: “c”: 未引用的局部变量
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1955,5): error MSB6006: “rc.exe”已退出，代码为 1。

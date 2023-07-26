@@ -1,0 +1,3 @@
+D:\程序\VS的C语言程序\图形化界面\x64\Release\图形化界面.exe
+C:\Users\21056\OneDrive - stu.xju.edu.cn\桌面\周渝琳+日程清单管理系统\图形化界面\x64\Release\图形化界面.exe
+C:\Users\21056\OneDrive - stu.xju.edu.cn\桌面\20211303230_周渝琳\源程序\图形化界面\x64\Release\图形化界面.exe
